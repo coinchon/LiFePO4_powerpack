@@ -16,7 +16,7 @@ Homemade mobile high power pack based on LiFePO4 batteries (Pack batterie mobile
 
 ### BMS
 
-* JBD BMD [AP21S001](https://jiabaidabms.com/products/jbd-smart-bms-8s-24v-100a-lithium-battery-protection-circuit-board-with-passive-balance-temp-sensor)
+* JBD BMS [AP21S001](https://jiabaida-bms.com/blogs/content/jbd-ap21s001-ap21s004-smart-bms-8s-21s-wiring-diagram)
 
 Other BMS under investigation for future packs: 123BMS, JK BMS, Seplos BMS (has CAN interface), homemade BMS
 
